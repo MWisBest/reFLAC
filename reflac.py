@@ -37,10 +37,10 @@ stripTagList = [
 	"Media", "Release Type", "Catalog",
 	"ORGANIZATION", "Related",
 	"Rip Date", "Retail Date",
-	"comment", "COMMENT", "NOTES",
+	"comment", "COMMENT", "NOTES", "Comments",
 	"DESCRIPTION",
 	"Language", "COPYRIGHT",
-	"Encoder", "Ripping Tool"
+	"Encoder", "Ripping Tool", "ENCODEDBY"
 ]
 
 
